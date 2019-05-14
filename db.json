@@ -1,0 +1,61 @@
+{
+	"circid": "1",
+	"autofill": [
+		{
+			"sname": "TEST ABC",
+			"key": "/app/common/entity/contact.nl?id=TEST_ABC",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		},
+		{
+			"sname": "TEST 123",
+			"key": "/app/common/entity/contact.nl?id=TEST_123",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		},
+		{
+			"sname": "TEXT XXX",
+			"key": "/app/common/entity/contact.nl?id=TEST_XXX",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		},
+		{
+			"sname": "TEST ZZZ",
+			"key": "/app/common/entity/contact.nl?id=TEST_ZZZ",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		},
+		{
+			"sname": "TEST YYY",
+			"key": "/app/common/entity/contact.nl?id=TEST_YYY",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		},
+		{
+			"sname": "TEST 456",
+			"key": "/app/common/entity/contact.nl?id=TEST_456",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		},
+		{
+			"sname": "TEST 789",
+			"key": "/app/common/entity/contact.nl?id=TEST_789",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		},
+		{
+			"sname": "TEST 000",
+			"key": "/app/common/entity/contact.nl?id=TEST_000",
+			"descr": "Contact",
+			"dashurl": "",
+			"bedit": "F"
+		}
+	]
+}
